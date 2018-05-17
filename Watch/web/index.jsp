@@ -78,47 +78,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                             <button onclick="ShowReg()" class="btn btn-success" style="margin-right: 5px;">Join</button>
 
-<!--                            <div id="id01" class="w3-modal">
-                                <div class="w3-modal-content">
-                                    <div class="w3-container">
-                                        <span onclick="document.getElementById('id01').style.display = 'none'" class="w3-button w3-display-topright">&times;</span>
-                                        <h1 align="center">Join WATCHES-LK</h1>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Name</label>
-                                            <input type="text" class="form-control" id="name" name="name" aria-describedby="emailHelp" placeholder="Name" required="required">
-                                            <p id="demo_one"></p>
-                                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Mobile No</label>
-                                            <input type="text" class="form-control" id="contact" name="contact" aria-describedby="emailHelp" placeholder="Mobile No" required="">
-                                            <p id="demo_two"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">Email Address</label>
-                                            <input type="email" class="form-control" id="em" name="em" aria-describedby="emailHelp" placeholder="Email Address" required="">
-                                            <p id="demo_three"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputEmail1">UserName</label>
-                                            <input type="text" class="form-control" id="un" name="un" aria-describedby="emailHelp" placeholder="UserName" required="">
-                                            <p id="demo_four"></p>
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="exampleInputPassword1">PassWord</label>
-                                            <input type="password" class="form-control" id="pw" name="pw" placeholder="PassWord" required="">
-                                            <p id="demo_five"></p>
-                                        </div>
-                                                                                    <div class="form-check">
-                                                                                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                                                                        <label class="form-check-label" for="exampleCheck1">Remember Me</label>
-                                                                                    </div>
-                                        <button type="submit" onclick="RegisterUser();" class="btn btn-primary">Continue</button>
-                                        <br>
-                                        &nbsp;
-                                    </div>
-                                </div>
-                            </div>-->
+<!--agfakjfvfkadbna-->
                         </div>
 
                         <div class="cart box_1">
